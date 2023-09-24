@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-""" holds class User"""
-import models
+""" 
+Holds class Place
+"""import models
 from models.base_model import BaseModel, Base
 from os import getenv
 import sqlalchemy
